@@ -1,4 +1,4 @@
-> Video link to understand the project (FR) : https://share.vidyard.com/watch/dZi9eJTDTokcndPtEMVQMX?
+> Video link to understand the code (FR) : https://share.vidyard.com/watch/dZi9eJTDTokcndPtEMVQMX?
 
 > Link to the API app : https://api-getaround-app.herokuapp.com/
 
