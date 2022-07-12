@@ -1,0 +1,13 @@
+name: CarPrice_predictor
+docker_env:
+  image: prediction-mlflow
+  environment: [
+    "MLFLOW_TRACKING_URI",
+    "AWS_ACCESS_KEY_ID",
+    "AWS_SECRET_ACCESS_KEY",
+    "BACKEND_STORE_URI",
+    "ARTIFACT_ROOT"
+  ]
+entry_points:
+  main:
+    command: "python train.py"
