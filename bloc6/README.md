@@ -2,4 +2,4 @@
 
 > Link to download the soundfont museScore_Sf2 :  https://ftp.osuosl.org/pub/musescore/soundfont/MuseScore_General/MuseScore_General.sf2
 
-> Link to the app dem : https://share.vidyard.com/watch/bsEUg8R77JVVEGGCbbv52v?
+> Link to the app demo : https://share.vidyard.com/watch/bsEUg8R77JVVEGGCbbv52v?
