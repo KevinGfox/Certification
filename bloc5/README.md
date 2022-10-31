@@ -19,6 +19,7 @@ In order to help them make the right decision, they are asking you for some data
 - How often are drivers late for the next check-in? How does it impact the next driver?
 - How many problematic cases will it solve depending on the chosen threshold and scope?
 
+# This project can be divided into two parts:
 1) Build a dashboard that will help the product Management team with the above questions 
 2) Create and API indicating the optimum rental price using custom model and AWS cloud services
 
