@@ -1,4 +1,6 @@
-# This repository contain all the projects for the data certification.
+# This repository contain all the projects for the data certification
+
+img src='.png'
 
 > Bloc1 : Construction et alimentation d'une infrastructure de gestion de donnees
 
