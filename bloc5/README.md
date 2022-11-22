@@ -34,4 +34,4 @@ In order to help them make the right decision, they are asking you for some data
 <img src='PNG/getaround2.png'>
 
 > Link to the MLflow app : https://mlflow-app-getaround.herokuapp.com/
-<img src='PNG/mlflow.png'>
+<img src='PNG/ml flow.png'>
