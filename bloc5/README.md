@@ -25,8 +25,13 @@ In order to help them make the right decision, they are asking you for some data
 
 > Video link to understand the code (FR) : https://share.vidyard.com/watch/dZi9eJTDTokcndPtEMVQMX?
 
-> Link to the API app : https://api-getaround-app.herokuapp.com/
+> Link to the API app : https://api-getaround-app.herokuapp.com/ 
+
+<img src='PNG/API getaround.png'>
 
 > Link to the EDA dashboard : https://eda-getaround.herokuapp.com/
+<img src='PNG/getaround1.png'>
+<img src='PNG/getaround2.png'>
 
 > Link to the MLflow app : https://mlflow-app-getaround.herokuapp.com/
+<img src='PNG/mlflow.png'>
