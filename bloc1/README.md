@@ -20,7 +20,7 @@ Goals of this project:
 > Video link to understand the code (FR) : https://share.vidyard.com/watch/KJ2Z7BJLtUjjRDi28k9kZc?
 
 > First animated map of average temperature
-<img src='src/tempavg.png'>
+<img src='src/tempavg.png' width="800" height="700">
 
 > Second map with the best 20 hotels in Toulouse 
-<img src='src/hotels.png'>
+<img src='src/hotels.png' width="800" height="700">
