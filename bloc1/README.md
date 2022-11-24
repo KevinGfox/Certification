@@ -15,5 +15,12 @@ Goals of this project:
 - Get hotels’ info about each destination
 - Store all the information above in a data lake
 - Extract, transform and load cleaned data from your datalake to a data warehouse
+- Create animated framed graphics
 
 > Video link to understand the code (FR) : https://share.vidyard.com/watch/KJ2Z7BJLtUjjRDi28k9kZc?
+
+> First animated map of average temperature
+<img src='src/tempavg.png'>
+
+> Second map with the best 20 hotels in Toulouse 
+<img src='src/hotels.png'>
