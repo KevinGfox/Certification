@@ -1,6 +1,6 @@
 <img src='musegen.png'>
 
-This project was made by Iandro, Matrickx, Alexande & Kevin.
+This project was made by Iandro, Matrickx, Alexandre & Kevin.
 
 This is a team project application which generate random music with a tuned variational autoencoder model.
 We used MAGENTA library (https://github.com/magenta/magenta) to create the app.
